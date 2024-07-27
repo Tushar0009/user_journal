@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:0000@tushar.1u17cjl.mongodb.net/?retryWrites=true&w=majority&appName=tushar
+      database: tushardb
+      auto-index-creation: true
