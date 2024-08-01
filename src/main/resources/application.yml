@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://root:0000@tushar.1u17cjl.mongodb.net/?retryWrites=true&w=majority&appName=tushar
-      database: tushardb
+      uri: mongodb+srv://root:<passwork>@<name>.1u17cjl.mongodb.net/?retryWrites=true&w=majority&appName=<name>
+      database: name
       auto-index-creation: true
